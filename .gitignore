@@ -1,0 +1,5 @@
+# Ignore everything but notebooks named "intento_propio.ipynb" (my own trial)
+#  and .gitignore
+*.py
+*.csv
+*Book
